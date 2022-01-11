@@ -3,3 +3,4 @@ munich/
 munich1/
 videos/
 *.ipynb
+*.DS_store
