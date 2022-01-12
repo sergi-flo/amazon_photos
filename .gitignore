@@ -1,8 +1,4 @@
 munich1/
 *.ipynb
-<<<<<<< HEAD
 .DS_Store
 .gitignore
-=======
-.DS_Store
->>>>>>> dfad1be3cd931c8f9c6726d0fc7c35ce687ae0c8
