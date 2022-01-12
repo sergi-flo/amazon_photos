@@ -1,6 +1,4 @@
-fotos/
-munich/
 munich1/
-videos/
 *.ipynb
-*.DS_Store
+.DS_Store
+.gitignore
