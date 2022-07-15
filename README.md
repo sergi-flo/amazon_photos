@@ -30,3 +30,27 @@ folder_photos_videos_separated
         ├── Alps
         └── Spain  
 ```
+## Command to execute 
+
+You can execute the command giving it executions permission as the following:
+
+```bash
+./amazon_photos.py source_dir destination_dir
+```
+
+or with the python comand as follows:
+
+```bash
+pyhton3 amazon_photos.py source_dir destination_dir
+```
+
+You also can get help as what the command does, and the args it need with the command:
+
+```bash
+pyhton3 amazon_photos.py -h
+
+or 
+
+./amazon_photos.py -h
+```
+
